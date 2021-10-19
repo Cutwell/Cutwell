@@ -1,12 +1,14 @@
-## Hello world 👋
+## 👋 Hello world
 ```python
 👩‍💻: str = "Zachary Smith"
 
 print(f"Hello world 👋 I'm {👩‍💻}.")
 ```
 
-## About me
+## 🐱‍💻 About me
 😄 My pronouns are He / Him.
+
+👩‍🎓 I'm currently a postgraduate student studying Artificial Intelligence.
 
 🌈 TMYK: Want a README.md on your own profile? Create a ✨ _special_ ✨ repository using your exact username (mine was **Cutwell/Cutwell**).
 
