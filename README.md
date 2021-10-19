@@ -1,4 +1,8 @@
-![Hi there, I'm Zachary](https://github.com/Cutwell/Cutwell/blob/5b9f91378bf49382bb90fa2b5563feb55aa21422/assets/zachary-readme-header.png "Hi there, I'm Zachary")
+```python
+👩‍💻: str = "Zachary Smith"
+
+print(f"Hello world 👋 I'm {👩‍💻}.")
+```
 
 ## About me
 😄 My pronouns are He / Him.
