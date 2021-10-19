@@ -8,4 +8,5 @@ Hi there, I'm Zachary. I'm a postgraduate student studying Artificial Intelligen
 
 ## 📚 [Cutwell.GitHub.io](https://cutwell.github.io/)
 <!-- BLOG-POST-LIST:START -->
+- [Using neural networks to colourise images from the Opportunity Mars Rover.](http://cutwell.github.io//opportunity-rover-colourised/)
 <!-- BLOG-POST-LIST:END -->
