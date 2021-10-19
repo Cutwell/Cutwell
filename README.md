@@ -8,4 +8,5 @@
 
 ## 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using neural networks to colourise images from the Opportunity Mars Rover.](http://cutwell.gihub.io//opportunity-rover-colourised/)
 <!-- BLOG-POST-LIST:END -->
