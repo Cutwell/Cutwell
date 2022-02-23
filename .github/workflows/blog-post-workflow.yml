@@ -1,17 +1,31 @@
 name: Latest blog post workflow
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch: # run manually
+  repository_dispatch: # run on recieving PING from Cutwell/Cutwell.github.io
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  ping-pong:
     runs-on: ubuntu-latest
     steps:
+      - name: Event Information
+        run: |
+          echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.repository }}'"
+
+      - name: PONG - Dispatch response to received PING
+        if: github.event.action == 'ping'
+        run: |
+          curl -X POST https://api.github.com/repos/Cutwell/Cutwell.github.io/dispatches \
+          -H 'Accept: application/vnd.github.everest-preview+json' \
+          -u ${{ secrets.ACCESS_TOKEN }} \
+          --data '{"event_type": "pong", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
+      
       - name: Checkout
+        if: github.event.action == 'ping'
         uses: actions/checkout@v2
+        
       - name: Pull in github.io blog posts
+        if: github.event.action == 'ping'
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://cutwell.github.io/feed.xml"
