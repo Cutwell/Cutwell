@@ -5,6 +5,14 @@
 
 👩‍💻 My GitHub documents my various projects in AI and other fields.
 
+## 📈 My GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cutwell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs" alt="Cutwell's github stats" />
+</a>
+<a href="https://github.com/Cutwell/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cutwell&layout=compact&theme=buefy&hide_border=true" />
+</a>
+
 ## 📚 [Latest blog posts](https://cutwell.github.io/)
 <!-- BLOG-POST-LIST:START -->
 - [That time I broke an open source competition.](http://cutwell.github.io//hacktoberfest-census/)
