@@ -7,7 +7,7 @@
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cutwell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs" alt="Cutwell's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cutwell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="Cutwell's github stats" />
 </a>
 
 ## 📚 [Latest blog posts](https://cutwell.github.io/)
