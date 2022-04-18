@@ -1,7 +1,7 @@
 ## 🐱‍💻 About me
-😄 My pronouns are He / Him.
+🏳️‍🌈 My pronouns are He / Him.
 
-👩‍🎓 I'm currently a postgraduate student studying Artificial Intelligence @Plymouth University.
+👩‍🎓 I'm currently a postgraduate student studying Artificial Intelligence @ Plymouth University.
 
 👩‍💻 My GitHub documents my various projects in AI and other fields.
 
