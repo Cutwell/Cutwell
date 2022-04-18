@@ -1,9 +1,15 @@
+<div align="center">
+  
 ## 🐱‍💻 About me
+
+
 🏳️‍🌈 My pronouns are He / Him.
 
 👩‍🎓 I'm currently a postgraduate student studying Artificial Intelligence @ Plymouth University.
 
 👩‍💻 My GitHub documents my various projects in AI and other fields.
+  
+  </div>
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
