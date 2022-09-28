@@ -15,7 +15,7 @@ jobs:
       - name: PONG - Dispatch response to received PING
         if: github.event.action == 'ping'
         run: |
-          curl -X POST https://api.github.com/repos/Cutwell/Cutwell.github.io/dispatches \
+          curl -X POST https://api.github.com/repos/Cutwell/cutwell.github.io/dispatches \
           -H 'Accept: application/vnd.github.everest-preview+json' \
           -u ${{ secrets.ACCESS_TOKEN }} \
           --data '{"event_type": "pong", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
