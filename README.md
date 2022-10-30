@@ -5,7 +5,7 @@
 
 🏳️‍🌈 My pronouns are He / Him.
 
-👩‍🎓 I'm currently a postgraduate student studying Artificial Intelligence @ Plymouth University.
+👩‍🎓 I'm a graduate in MSc Artificial Intelligence and BSc Computer Science from the University of Plymouth.
 
 👩‍💻 My GitHub documents my various projects in AI and other fields.
   
