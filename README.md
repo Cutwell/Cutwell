@@ -5,7 +5,7 @@
 
 🏳️‍🌈 My pronouns are He / Him.
 
-👩‍🎓 I'm a graduate in MSc Artificial Intelligence and BSc Computer Science from the University of Plymouth.
+👩‍🎓 MSc Artificial Intelligence and BSc Computer Science, working with [@teamdatatonic](https://github.com/teamdatatonic) in 2023.
 
 👩‍💻 My GitHub documents my various projects in AI and other fields.
   
