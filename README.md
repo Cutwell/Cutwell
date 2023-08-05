@@ -2,12 +2,9 @@
   
 ## 🐱‍💻 About me
 
+👩‍🎓 MSc Artificial Intelligence (1st) and BSc Computer Science (1st).
 
-🏳️‍🌈 My pronouns are He / Him.
-
-👩‍🎓 MSc Artificial Intelligence and BSc Computer Science, working with [@teamdatatonic](https://github.com/teamdatatonic) in 2023.
-
-👩‍💻 My GitHub documents my various projects in AI and other fields.
+👩‍💻 Working with Datatonic as a Machine Learning Consultant, building Generative AI solutions on Google Cloud.
   
   </div>
 
