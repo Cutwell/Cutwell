@@ -14,3 +14,6 @@
 - [Using a neural network to augment wind data.](http://cutwell.github.io//neural-network-augmentation/)
 - [Using neural networks to colourise images from the Opportunity Mars Rover.](http://cutwell.github.io//opportunity-rover-colourised/)
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
