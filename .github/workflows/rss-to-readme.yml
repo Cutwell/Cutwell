@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://cutwell.github.io/feed.xml
+          feed-url: https://cutwell.github.io/blog/feed.xml
           readme-section: feed
