@@ -1,10 +1,10 @@
 <div align="center">
   
-## 🐱‍💻 About me
+## About me
 
-👩‍🎓 MSc Artificial Intelligence (1st) and BSc Computer Science (1st).
-
-👩‍💻 Working with Datatonic as a Machine Learning Consultant, building Generative AI solutions on Google Cloud.
+* MLE, GenAI, Full-stack @ Datatonic.
+* LangChain tutorials @ https://www.youtube.com/@cutwell946
+* Founder of https://storyscribbler.com/
   
   </div>
 
