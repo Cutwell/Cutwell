@@ -2,16 +2,16 @@
   
 ## About me
 
-MLE, GenAI, Full-stack @ Datatonic.
+Generative AI and Machine Learning Engineer working @ [Datatonic](https://datatonic.com/).
 
-LangChain tutorials @ https://www.youtube.com/@cutwell946
+LangChain tutorials @ [YouTube](https://www.youtube.com/@cutwell946)
 
-Founder of https://storyscribbler.com/
+Solo developer @ [StoryScribbler](https://storyscribbler.com/)
   
   </div>
 <br>
 
-## Blogging @ https://cutwell.github.io/blog
+_Sometimes I write about technology and sci-fi:_
 <!--START_SECTION:feed-->
 * [Canary - A framework for detecting prompt injection attacks.](https:&#x2F;&#x2F;cutwell.github.io&#x2F;blog&#x2F;canary-llm&#x2F;)
 * [Too dangerous to live, too unregulated to die.](https:&#x2F;&#x2F;cutwell.github.io&#x2F;blog&#x2F;ai-art-vs-artists&#x2F;)
